@@ -1,0 +1,9 @@
+{
+    "default_ic": "20",
+    "desc": "Ingen",
+    "full_dir_path": null,
+    "name": "A002",
+    "references_varmaps": [],
+    "scenario_minutes": "15",
+    "script": "LoadIC(DEFAULT_IC)\nRun()\nwait(30)\n\n\n\n%iodadg.value = 1\n\nWaitFor( %iodadg > 100 )\n\nPushUntil(%iovastr, %lampa)"
+}
