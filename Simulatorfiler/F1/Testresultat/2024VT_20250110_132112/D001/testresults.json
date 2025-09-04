@@ -1,4 +1,4 @@
-						"
+						
 						{
 							
 							"Beskrivning" : "Turbinsnabbstopp från full effekt",
@@ -6,7 +6,7 @@
 							"Tid": "13:21", 
 			
 							"Typ": "Driftduglighetstest", 
-							"Referenser" : ["Referenser/ANSI/D001/Referens.csv", "Referenser/ANSI/D001/Referens.csv" ],
+							"Referenser" : ["Referenser/ANSI/D001/Referens.csv", "Referenser/ANSI/D001/Referens.csv" ]
 						}
-						"
+						
 
