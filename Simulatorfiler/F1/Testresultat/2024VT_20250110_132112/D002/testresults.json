@@ -1,4 +1,4 @@
-						"
+						
 						{
 							
 							"Beskrivning" : "Brott på HC-krets",
@@ -6,7 +6,7 @@
 							"Tid": "14:44", 
 			
 							"Typ": "Driftduglighetstest", 
-							"Referenser" : ["Referenser/ANSI/D002/Referens.csv", "Referenser/ANSI/D002/Referens.csv" ],
+							"Referenser" : ["Referenser/ANSI/D002/Referens.csv", "Referenser/ANSI/D002/Referens.csv" ]
 						}
-						"
+						
 
